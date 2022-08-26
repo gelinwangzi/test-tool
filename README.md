@@ -1,3 +1,1 @@
-# test-tool
-测试工具
-当前测试类可以进行获取佩奇电影的路径哦!
+[![](https://jitpack.io/v/gelinwangzi/test-tool.svg)](https://jitpack.io/#gelinwangzi/test-tool)
