@@ -8,6 +8,6 @@ class SpiderApplicationTests {
 
     @Test
     void contextLoads() {
+        int a = 1 /0;
     }
-
 }
